@@ -1,9 +1,8 @@
 # Group Assignments (Pairs) for Project 1
 
 ## Group 1
-
-Jumoke Omoshebi
-Haizhi Guan
+- Jumoke Omoshebi
+- Haizhi Guan
 
 ## Group 2
 
