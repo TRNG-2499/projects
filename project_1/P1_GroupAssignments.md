@@ -12,7 +12,7 @@
 ## Group 3
 
 - Jaylen Davis
-- Ethan Surati
+- Michael Aragon-Robbins
 
 ## Group 4
 
@@ -97,5 +97,4 @@
 ## Group 20
 
 - Brice Creager
-- Michael Aragon-Robbins
 - Yosuf Almairi
